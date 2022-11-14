@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: devil1211/httpd:v2
+        image: devil1211/httpd:v1
         ports:
         - containerPort: 80
